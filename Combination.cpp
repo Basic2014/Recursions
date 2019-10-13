@@ -1,8 +1,6 @@
 
 #include <iostream>
 
-
-
 int Factorial(int n)
 {
   if(n==0)
